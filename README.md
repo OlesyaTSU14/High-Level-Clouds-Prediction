@@ -10,8 +10,8 @@ This study considers the possibility of detecting high-level clouds using machin
 
 
 #### Authors 
-<small>Akimov Ivan<small>  
-Kuchinskaia Olesia  
-Penzin Maxim  
-Romanov Denis  
+<small><small>Akimov Ivan   
+<small><small>Kuchinskaia Olesia  
+<small><small>Penzin Maxim  
+<small><small>Romanov Denis  
 
