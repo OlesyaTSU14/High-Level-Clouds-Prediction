@@ -13,9 +13,10 @@ Annotation file is easy to use and contains some useful columns, see _____.csv f
 * Wind direction
 
 ***Data Source:***  
-[Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC).](http://meteo.ru) Target variable: binary classification of HLCs cover (Available online).  
-[Copernicus Climate Data Store.](https://cds.climate.copernicus.eu) Feature altitude profiles (Available online).  
-The model was evaluated using real experimental atmospheric sensing data as the control sample obtained from [High-Altitude Matrix Polarization Lidar.](https://ckp-rf.ru/catalog/usu/73573/) Target variable: binary classification of HLCs cover (Available upon request).  
+
+* [Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC).](http://meteo.ru) Target variable: binary classification of HLCs cover (Available online).  
+* [Copernicus Climate Data Store.](https://cds.climate.copernicus.eu) Feature altitude profiles (Available online).  
+* The model was evaluated using real experimental atmospheric sensing data as the control sample obtained from [High-Altitude Matrix Polarization Lidar.](https://ckp-rf.ru/catalog/usu/73573/) Target variable: binary classification of HLCs cover (Available upon request).  
 
 
 
