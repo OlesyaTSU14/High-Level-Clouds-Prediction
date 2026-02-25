@@ -6,7 +6,7 @@ This study considers the possibility of detecting high-level clouds HLCs using m
 The presence of HLCs over Tomsk, derived from standard meteorological observations (every 3 hours) at the Tomsk hydrometeorological station (No. 29430), is used as the target variable.
 
 ***Data Source:***
-[Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC). Target variable (Available online)](http://meteo.ru).
+[Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC).](http://meteo.ru) Target variable (Available online).
 
 
 Annotation file is easy to use and contains some useful columns, see _____.csv file:
