@@ -9,6 +9,6 @@ This study considers the possibility of detecting high-level clouds using machin
 
 Akimov Ivan 
 Kuchinskaia Olesia  
-Penzin Maxim
+Penzin Maxim 
 Romanov Denis
 
