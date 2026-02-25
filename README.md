@@ -1,15 +1,28 @@
 # High-Level Clouds Prediction
-This study considers the possibility of detecting high-level clouds HLCs using machine learning methods based on the meteorological observations, ERA5 reanalysis and atmospheric lidar sensing data. 
+This study considers the possibility of detecting high-level clouds (HLCs) using machine learning methods based on the meteorological observations, ERA5 reanalysis and atmospheric lidar sensing data. 
 
 ### Data
 
-The presence of HLCs over Tomsk, derived from standard meteorological observations (every 3 hours) at the Tomsk hydrometeorological station (No. 29430), is used as the target variable.
+Annotation file is easy to use and contains some useful columns, see _____.csv file:  
 
 ***Data Source:***  
-[Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC).](http://meteo.ru) Target variable (Available online).
+[Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC).](http://meteo.ru) Target variable: binary classification of HLCs cover (Available online).  
+[Copernicus Climate Data Store.](https://cds.climate.copernicus.eu) Feature altitude profiles (Available online).  
+High-Altitude Matrix Polarization Lidar<img width="484" height="13" alt="image" src="https://github.com/user-attachments/assets/cf76f604-d8ab-4834-b1fc-500c5b0d1aef" />
 
 
-Annotation file is easy to use and contains some useful columns, see _____.csv file:
+
+* Temperature
+* Absolute humidity
+* Relative humidity
+* Pressure
+* Wind speed
+* Wind direction
+
+
+
+
+
 
 
 ### Models
