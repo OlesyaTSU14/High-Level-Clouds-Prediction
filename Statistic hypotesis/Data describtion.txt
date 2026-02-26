@@ -1,0 +1,12 @@
+Data describtion
+
+Lidar_data.csv
+    1)date_started_at - date of lidar sensing.
+    2)timestamp_started_at - timestamp of lidar sensing
+    3)alt_start - lower boundary of HLC, detected by lidar. For cloudless atmosphere alt_start is 0.
+    4)Cloud - answer for question: did lidar detected cloud or not? 1 - Yes, 0 - No
+
+
+Meteo_data.csv
+    1)HLC - detected or not HLC by meteorogical observation
+    2)Общее количество облачности - total cloud cover 
