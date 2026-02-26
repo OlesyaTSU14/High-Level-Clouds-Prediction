@@ -1,9 +1,9 @@
 # High-Level Clouds Prediction
 This study considers the possibility of detecting high-level clouds (HLCs) using machine learning methods based on the meteorological observations, ERA5 reanalysis and atmospheric lidar sensing data. 
 
-1) `Statistic_hypotesis`: investigating the potential for integrated use of meteorological observations and LiDAR sensing data.
+`Statistic hypotesis`: investigating the potential for integrated use of meteorological observations and LiDAR sensing data.
 
-2) `HLC_probabilities`: Development of an ML model for predicting the presence or absence of HLCs.
+`HLC probabilities`: development of an ML model for predicting the presence or absence of HLCs.
 
 ### Dataset Features
 
