@@ -13,9 +13,10 @@ The dataset contains vertical profiles of meteorological parameters measured at 
 * rel_humidity{altitude} — Relative humidity at the specified altitude (%).
 * pressure{altitude} — Atmospheric pressure at the specified altitude (hPa).
 * wind_speed{altitude} — Wind speed at the specified altitude (m/s).
-* wind_direction{altitude} — Wind direction at the specified altitude (degrees).  
-[Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC).](http://meteo.ru) (Available online). Target variable: binary classification of HLCs cover, see HLC_probabilities/k_data.csv    
-The dataset contains ground-based synoptic observations, including cloud types, coverage, and weather conditions recorded at specific time intervals. 
+* wind_direction{altitude} — Wind direction at the specified altitude (degrees).
+  
+[Russian Research Institute of Hydrometeorological Information – World Data Centre (RIHMI–WDC).](http://meteo.ru) (Available online). Target variable: binary classification of HLCs cover, see HLC_probabilities/k_data.csv. The dataset contains ground-based synoptic observations, including cloud types, coverage, and weather conditions recorded at specific time intervals. 
+
 The model was evaluated using real experimental atmospheric sensing data as the control sample obtained from [High-Altitude Matrix Polarization Lidar.](https://ckp-rf.ru/catalog/usu/73573/) Target variable: binary classification of HLCs cover (Available upon request).  
 
 #### Authors 
