@@ -8,7 +8,7 @@ This study considers the possibility of detecting high-level clouds (HLCs) using
 ### Dataset Features
 
 [Copernicus Climate Data Store.](https://cds.climate.copernicus.eu) (Available online).  Feature altitude profiles. 
-The dataset contains vertical profiles of meteorological parameters measured at various altitudes (from 0 to 14,000 meters with a 500-meter step). Annotation file is easy to use and contains some useful columns, see HLC_probabilities/era5_data.csv file, where:  
+The dataset contains vertical profiles of meteorological parameters measured at various altitudes (from 0 to 14,000 meters with a 500-meter step). Annotation file is easy to use and contains some useful columns, see HLC_probabilities/era5_data.csv file, where:
 * abs_humidity{altitude} — Absolute humidity at the specified altitude (g/m<sup>2</sup>).  
 * rel_humidity{altitude} — Relative humidity at the specified altitude (%).
 * pressure{altitude} — Atmospheric pressure at the specified altitude (hPa).
